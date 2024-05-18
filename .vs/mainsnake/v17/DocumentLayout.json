@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\k\u0129 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\mainsnake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF37AD8-292B-4560-9A32-85D653164A72}|mainsnake\\mainsnake.vcxproj|C:\\k\u0129 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\mainsnake\\mainsnake\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF37AD8-292B-4560-9A32-85D653164A72}|mainsnake\\mainsnake.vcxproj|solutionrelative:mainsnake\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\k\u0129 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\mainsnake\\mainsnake\\Source.cpp",
+              "RelativeDocumentMoniker": "mainsnake\\Source.cpp",
+              "ToolTip": "C:\\k\u0129 n\u0103ng ngh\u1EC1 nghi\u1EC7p\\mainsnake\\mainsnake\\Source.cpp",
+              "RelativeToolTip": "mainsnake\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T13:11:35.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
